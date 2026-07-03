@@ -1,0 +1,21 @@
+{
+  "report_id": "2025-091",
+  "repo_name": "verasight-report-2025-091",
+  "title": "Verasight JSM Omnibus Survey",
+  "wave_id": "2025-091",
+  "survey_id": "2025-091",
+  "source_report_url": "https://reports.verasight.io/reports/jsm-2025",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-08-13",
+    "end": "2025-08-18"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 24,
+  "modules": [
+    "Verasight JSM Omnibus Survey"
+  ]
+}
